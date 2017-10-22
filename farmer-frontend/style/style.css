@@ -1,6 +1,7 @@
-form a {
-  margin-left: 5px;
+.text-xs-right {
+ padding: 10px;
+ margin: 10px;
 }
-.hidden {
-  visibility: hidden;
+body {
+  padding: 10px;
 }

@@ -47,12 +47,12 @@ class PostsIndex extends Component {
     const { term }= this.state;
     return (
       <div>
-        
         <div className="text-xs-right">
-        <form>
+        <form>Search :
             <input type="text" onChange= {this.searchHandler}
             value={term}/>
           </form>
+          <br/>
           <Link className="btn btn-primary" to="/posts/new">
             Add a Farmer
           </Link>
