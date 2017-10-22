@@ -4,19 +4,19 @@
  
 Start Backend: 
 
-   cd farmer-backend
+     cd farmer-backend
    
-   yarn install
+     yarn install
    
-   yarn start
+     yarn start
    
 Start front-end:
 
-  cd farmer-frontend
+    cd farmer-frontend
   
-  yarn install
+    yarn install
   
-  yarn start
+    yarn start
 
 
 
